@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Okorie chinedu Stanley
+- 👀 I’m interested in machne learning, and blockchain developement.
+- 🌱 I’m currently learning Python, HTML, CSS, and JavaScript.
+- 💞️ I’m looking forward with working in a tech company as intern to improve my skill and experience.
+- 📫 Email: okoriechinedu78@gmail.com
